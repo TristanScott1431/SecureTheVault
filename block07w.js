@@ -11,12 +11,12 @@ let var1 = 20 / 2
 console.log(var1)
 
 //create variable that equals 40//
-let var2 = 5 * 8
+let var2 = 10 * -4 + 80
 
 console.log(var2)
 
 //create variable that equals 39//
-let var3 = -1 + 40
+let var3 = -15 + 40 + 14
 
 console.log(var3)
 
